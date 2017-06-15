@@ -1,5 +1,5 @@
 <?php
-  echo "test<br>";
+  echo "test~test<br>";
   echo gethostname();
   phpinfo();
 ?>
