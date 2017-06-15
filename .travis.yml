@@ -28,3 +28,4 @@ deploy:
     region: us-east-2
     on:
       branch: master
+
